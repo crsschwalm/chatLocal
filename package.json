@@ -1,9 +1,9 @@
 {
-  "name": "angular2-full-stack",
-  "version": "4.0.0",
+  "name": "chat-local",
+  "version": "1.0.0",
   "license": "MIT",
-  "author": "Davide Violante",
-  "description": "Angular Full Stack project built using Angular 4, Express, Mongoose and Node.",
+  "author": "Carson Schwalm",
+  "description": "Location-based communication application where users interact with others in close proximity.",
   "angular-cli": {},
   "scripts": {
     "ng": "ng",
